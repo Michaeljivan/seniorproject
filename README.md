@@ -1,4 +1,4 @@
-# seniorproject
+# Senior Project Management System
 
 Quick Setup Guide in 5 Steps!
 Setting up Senior Project Management on your local machine
