@@ -3,15 +3,15 @@
 Quick Setup Guide in 5 Steps!
 Setting up Senior Project Management on your local machine
 
-First Step)
+1)
 Download XAMPP on your Windows or Mac machine here https://www.apachefriends.org/download.html
 
-Second Step)
+2)
 Open the XAMPP Control panel and,
 	Start the Apache server
 	Start the MySQL server
 
-Third  Step)
+3)
 Go to your localhost http://localhost/phpmyadmin/
 
 Create a new database called “spm”
@@ -21,12 +21,12 @@ Then run the script that is provided “all_tables_spms.sql”
 
 Then simply insert an admin user by running the script called “admin_insert.sql”
 
-Fourth Step)
+4)
 Drag the folder with the correct version  into the following path:
  	C:\xampp\htdocs
 Rename the folder to “seniorproject”
 
-Final Step)
+5)
 Go to the URL http://localhost/seniorproject/
 
 Additional Notes:
